@@ -1,0 +1,3 @@
+<launch>
+  <node name="particle_filter_localization_node" pkg="particle_filter_localization" type="pf_localization_node.py" output="screen" />
+</launch>

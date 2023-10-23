@@ -1,0 +1,8 @@
+particle_filter_localization/
+    ├── CMakeLists.txt
+    ├── package.xml
+    ├── launch/
+    │   ├── pf_localization.launch
+    └── src/
+        ├── particle_filter.py
+        ├── pf_localization_node.py
